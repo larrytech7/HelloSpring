@@ -29,5 +29,7 @@
 	<classpathentry kind="lib" path="C:/Users/Larry_Lite/Downloads/Compressed/aspectj-1.6.9.jar/aspectj-1.6.9.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Larry_Lite/Downloads/Compressed/aspectjrt-1.7.3.jar/aspectjrt-1.7.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Larry_Lite/Downloads/Compressed/aspectj-weaver.jar/aspectj-weaver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larry_Lite/Documents/GitHub/timetableweb/build/web/WEB-INF/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larry_Lite/Documents/JavaDev/spring/libs/org.springframework.transaction.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
